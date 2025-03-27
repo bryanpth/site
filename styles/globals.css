@@ -7,7 +7,6 @@
 
   --animate-twinkle: twinkle 4s ease-in-out infinite;
   --animate-blink: twinkle 1s step-end infinite;
-  --animate-draw: draw 1.5s linear forwards;
 }
 
 :root {
