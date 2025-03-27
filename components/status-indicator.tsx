@@ -6,7 +6,7 @@ export const StatusIndicator = ({
   available?: boolean;
 }) => (
   <div className="absolute right-7 top-8 z-50">
-    <div className="flex select-none items-center space-x-2 rounded-lg border border-zinc-800 bg-zinc-950/50 py-1.5 pl-4 pr-2.5 text-sm lowercase animate-in fade-in zoom-in">
+    <div className="flex select-none items-center space-x-2 rounded-lg border border-zinc-800 bg-zinc-950/50 py-1.5 px-4 text-sm lowercase animate-in fade-in zoom-in">
       <div className="relative flex size-2.5">
         <span
           className={cn(
