@@ -10,9 +10,9 @@ export default function Home() {
           <h2 className="lowercase text-zinc-500">Front-End Engineer</h2>
         </div>
         <p className="lowercase text-neutral-200">
-          I’m a passionate web developer, focused on building fast applications
-          with an emphasis on aesthetics, usability, and seamless interactions
-          through clean design.
+          I’m a passionate web developer, focused on building fast,
+          aesthetically pleasing applications with seamless interactions and
+          intuitive design for great user experiences.
         </p>
       </div>
 
