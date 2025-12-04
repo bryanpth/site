@@ -7,7 +7,7 @@ export default function NotFound() {
   return (
     <div className="fixed left-1/2 top-1/2  -translate-x-1/2 -translate-y-1/2 select-none ">
       <div className="flex flex-col items-center justify-center gap-6 duration-500 animate-in fade-in zoom-in">
-        <h1 className="bg-gradient-to-r from-neutral-50 to-zinc-600 bg-clip-text text-8xl font-black text-transparent drop-shadow-xl">
+        <h1 className="bg-linear-to-r from-neutral-50 to-zinc-600 bg-clip-text text-8xl font-black text-transparent drop-shadow-xl">
           404
         </h1>
         <Link
