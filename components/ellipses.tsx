@@ -1,7 +1,7 @@
 export const Ellipse = ({ size }: { size: number }) => {
   return (
     <div
-      className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/50 bg-gradient-to-b from-[#031319] to-transparent opacity-40 backdrop-blur-3xl transition-all duration-500 ease-in-out"
+      className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/50 bg-linear-to-b from-[#031319] to-transparent opacity-40 backdrop-blur-3xl transition-all duration-500 ease-in-out"
       style={{
         width: size,
         height: size,
